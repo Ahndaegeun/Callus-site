@@ -1,0 +1,63 @@
+html {
+    font-size: 62.5%;
+}
+
+body * {
+    font-size: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Font-size */
+.fs-xs {
+    font-size: 1.6rem;
+}
+
+.fs-s {
+    font-size: 2rem;
+}
+
+.fs-m {
+    font-size: 2.4rem;
+}
+
+.fs-l {
+    font-size: 3.6rem;
+}
+
+.fs-xl {
+    font-size: 4.8rem;
+}
+
+/* Font-weight */
+.fw-xs {
+    font-weight: 100;
+}
+
+.fw-s {
+    font-weight: 300;
+}
+
+.fw-m {
+    font-weight: 500;
+}
+
+.fw-l {
+    font-weight: 700;
+}
+
+/* Font-color */
+.public {
+    color: #999999;
+}
+
+.emphasis {
+    color: #111111;
+}
+
+.point {
+    color: #2cccc4;
+}
